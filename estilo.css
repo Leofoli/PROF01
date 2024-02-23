@@ -1,0 +1,15 @@
+nav{
+	background-color:black;
+	display:block;
+	height:40px;
+}
+a{
+	padding-top:20%;
+}
+h3{
+	color:white;
+	font-size:14px;
+}
+footer{
+	background-color:black;
+}
